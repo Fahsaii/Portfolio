@@ -380,7 +380,7 @@ header .navbar ul li a:hover{
 }
 
 .contact .row form .box{
-    padding:1.5rem;
+    padding:1rem;
     margin:1rem 0;
     background:#3333;
     color:#fff;
@@ -394,7 +394,7 @@ header .navbar ul li a:hover{
 }
 
 .contact .row form .message{
-    height: 15rem;
+    height: 10rem;
     resize: none;
 }
 
